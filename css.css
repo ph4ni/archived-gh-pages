@@ -1,15 +1,15 @@
-body {
+body{
     width: 90%;
     margin: auto;
     padding: 9px;
 }
 
 h1{
-    font-family: 'Chilanka', cursive;
+    font-family: 'Patrick Hand', cursive;
     text-align: left;
     color: indigo;
 }
 
 h3, p, h4 {
-    font-family: 'Chewy', cursive;
+    font-family: 'Chilanka', cursive;
 }
